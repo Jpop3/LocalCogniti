@@ -1,5 +1,3 @@
-Next we will look at what degree or pathway you are interested at the University of Sydney. Here is a list of degrees/pathways/majors available in the Faculty of Science , Business and Economics, each with their calculus requirement. Note there is support pathways for courses in which your calculus background doesnt fill the requirements for.
-
 Pre-Calculus Fulfills The Requirements for: 
 - Psychology
 - Psychological Sciences
@@ -50,7 +48,7 @@ Extended Calculus Fulfills The Requirements for:
 - Mathematics
 - Financial Mathematics and Statistics
 - Mathematical Modelling and Computation
-- Mathematical Sciences"
+- Mathematical Sciences
 
 Economics: 
 
