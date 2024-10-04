@@ -1,0 +1,12 @@
+1. Pre-Calculus to Calculus Ready
+Pathway A: MOOC Module 1 Pre-Semester -> MATH1111 During Semester 
+Pathway B: MOOC Module 1-5 Pre-Semester
+2. Calculus Ready to Extended Calculus
+Mathematics Extension 1 Bridging Course (MBC) Pre-Semester
+3. Pre-Calculus to Extended Calculus
+Pathway A: MOOC Module 1 Pre-Semester -> MATH1111 During Semester 1 -> Mathematics Extension 1 Bridging Course (MBC) 
+Pathway B: MOOC Module 1-5 Pre-Semester -> Mathematics Extension 1 Bridging Course (MBC) Pre-Semester
+
+MOOC Link: https://www.coursera.org/learn/introduction-to-calculus
+MBC Link: https://cce.sydney.edu.au/course/FSB3
+

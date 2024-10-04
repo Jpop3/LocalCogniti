@@ -56,16 +56,40 @@
 #             all_majors_categories.append(line.lstrip("- ").rstrip())
 # print(all_majors_categories)
 
-units_with_calc_category = {}
-with open("units_with_calc_level.txt") as file:
-    category = ""
-    for index, line in enumerate(file):
-        if index % 2 == 0:
-            category = line.lstrip("- ")
-            category = category[:-9].lower()
-        else:
-            ls = []
-            for unit in line.split(", "):
-                ls.append(unit.lstrip().rstrip())
-            units_with_calc_category[category] = ls
-print(units_with_calc_category)
+# units_with_calc_category = {}
+# with open("units_with_calc_level.txt") as file:
+#     category = ""
+#     for index, line in enumerate(file):
+#         if index % 2 == 0:
+#             category = line.lstrip("- ")
+#             category = category[:-9].lower()
+#         else:
+#             ls = []
+#             for unit in line.split(", "):
+#                 ls.append(unit.lstrip().rstrip())
+#             units_with_calc_category[category] = ls
+# print(units_with_calc_category)
+
+# domestic_maths = []
+# with open("domestic_maths.txt") as file:
+#     for line in file:
+#         if line[0:2] == "- ":
+#             domestic_maths.append(line.lstrip("- ").rstrip())
+# print(domestic_maths)
+
+# support_pathways_dict = {}
+# with open("support_pathways.txt") as file:
+#     support_pathways_dict['Pre-Calculus'] = {}
+#     support_pathways_dict['Calculus Ready'] = {}
+#     support_pathways_dict['Pre-Calculus']['Calculus Ready'] = []
+#     support_pathways_dict['Pre-Calculus']['Extended Calculus'] = []
+#     support_pathways_dict['Calculus Ready']['Extended Calculus'] = []
+#     for index, line in enumerate(file):
+#         if index == 1 or index == 2:
+#             support_pathways_dict['Pre-Calculus']['Calculus Ready'].append(line.rstrip())
+#         if index == 4:
+#             support_pathways_dict['Calculus Ready']['Extended Calculus'].append(line.rstrip())
+#         if index == 6 or index == 7:
+#             support_pathways_dict['Pre-Calculus']['Extended Calculus'].append(line.rstrip())
+
+# print(support_pathways_dict)
